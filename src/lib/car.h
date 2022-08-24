@@ -8,6 +8,7 @@ class Car
 public:
         Car( Vision* vision )
                 :       vision(vision){}
+                
         Car(Vision *v, Engine *e)
         {
                 this->vision=v;

@@ -1,0 +1,163 @@
+mock_podaci_test.cc
+Note: including file: C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\src/lib//mock_obrada.h
+Note: including file:  C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\src\lib\obrada.h
+Note: including file:  C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-actions.h
+Note: including file:    C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\concurrencysal.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\yvals_core.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xkeycheck.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdint.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdlib
+Note: including file:       C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+Note: including file:       C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\limits.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\limits
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cfloat
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\climits
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cwchar
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdio
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+Note: including file:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\intrin0.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\isa_availability.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstddef
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstddef
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtr1common
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\initializer_list
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\new
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\exception
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\yvals.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime_new_debug.h
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime_new.h
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\crtdefs.h
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\use_ansi.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\type_traits
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime_exception.h
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\eh.h
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xatomic.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstring
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\string
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\iosfwd
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cctype
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
+Note: including file:    C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/internal/gmock-internal-utils.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\ostream
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\ios
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xlocnum
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cmath
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\iterator
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\streambuf
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xiosbase
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\system_error
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\__msvc_system_error_abi.hpp
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cerrno
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdexcept
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xcall_once.h
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xerrc.h
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\atomic
+Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xthreads.h
+Note: including file:             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtimec.h
+Note: including file:              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\ctime
+Note: including file:               C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xlocale
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory
+Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\typeinfo
+Note: including file:             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime_typeinfo.h
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xfacet
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xlocinfo
+Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\__msvc_xlocinfo_types.hpp
+Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\clocale
+Note: including file:             C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+Note: including file:     C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/internal/gmock-generated-internal-utils.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/internal/gmock-port.h
+Note: including file:       C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\iostream
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\istream
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-linked_ptr.h
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Note: including file:        C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-port.h
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sstream
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector
+Note: including file:         C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-port-arch.h
+Note: including file:         C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/custom/gtest-port.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\direct.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\io.h
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_io.h
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\tuple
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/internal/custom/gmock-port.h
+Note: including file:     C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-internal.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\iomanip
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xlocmon
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xloctime
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\set
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest-message.h
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-filepath.h
+Note: including file:        C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-string.h
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-type-util.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest-death-test.h
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-death-test-internal.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest-param-test.h
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-param-util.h
+Note: including file:        C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest-printers.h
+Note: including file:         C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/custom/gtest-printers.h
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/internal/gtest-param-util-generated.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest_prod.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest-test-part.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest-typed-test.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest_pred_impl.h
+Note: including file:       C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googletest\include\gtest/gtest.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\functional
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-cardinalities.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-generated-actions.h
+Note: including file:    C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/internal/custom/gmock-generated-actions.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-generated-function-mockers.h
+Note: including file:    C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-spec-builders.h
+Note: including file:     C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-matchers.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+Note: including file:      C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/internal/custom/gmock-matchers.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-generated-matchers.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-generated-nice-strict.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-more-actions.h
+Note: including file:   C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\external\com_google_googletest\googlemock\include\gmock/gmock-more-matchers.h
+Note: including file: C:\users\syrmia\_bazel_syrmia\c6ruked5\execroot\__main__\src/lib/podaci.h
