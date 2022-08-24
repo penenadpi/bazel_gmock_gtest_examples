@@ -8,5 +8,7 @@
 int nadji_max(int niz[], int n);
 int nadji_min(int niz[], int n);
 
+int nadji_medijanu(int niz[], int n);
+
 #endif
 

@@ -17,3 +17,11 @@ TEST(AlgoritmiTest, Najmanji) {
   najmanji=nadji_min(niz,3);
   ASSERT_TRUE(najmanji==1);
 }
+
+TEST(AlgoritmiTest, Medijana)
+{
+  int niz[] = {1, 5, 3, 7};
+  int medijana = 0;
+  medijana = nadji_medijanu(niz, 3);
+  ASSERT_TRUE(medijana == 3);
+}
