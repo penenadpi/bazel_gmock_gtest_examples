@@ -14,6 +14,13 @@ cc_library(
     visibility = ["//visibility:public"],
 )
 
+cc_library(
+    name = "Nizovi",
+    srcs = ["nizovi.c"],
+    hdrs = ["nizovi.h"],
+    visibility = ["//visibility:public"],
+)
+
 
 cc_library(
     name = "Vision",
