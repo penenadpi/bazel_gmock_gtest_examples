@@ -1,6 +1,12 @@
 load("@rules_cc//cc:defs.bzl", "cc_library")
 
 cc_library(
+    name = "nizovi",
+    srcs = ["nizovi.c"],
+    hdrs = ["nizovi.h"],
+    visibility = ["//visibility:public"],
+)
+cc_library(
     name = "Matematika",
     srcs = ["matematika.cc"],
     hdrs = ["matematika.h"],
