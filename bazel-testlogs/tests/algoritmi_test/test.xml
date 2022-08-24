@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2022-08-24T10:20:04" time="0" name="AllTests">
+  <testsuite name="AlgoritmiTest" tests="2" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="Najveci" status="run" time="0" classname="AlgoritmiTest" />
+    <testcase name="Najmanji" status="run" time="0" classname="AlgoritmiTest" />
+  </testsuite>
+</testsuites>

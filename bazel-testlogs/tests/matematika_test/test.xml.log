@@ -1,0 +1,21 @@
+Running main() from gmock_main.cc
+[==========] Running 6 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 6 tests from MatematikaTest
+[ RUN      ] MatematikaTest.ProveriSaberi
+[       OK ] MatematikaTest.ProveriSaberi (0 ms)
+[ RUN      ] MatematikaTest.DeljenjeNulom
+[       OK ] MatematikaTest.DeljenjeNulom (0 ms)
+[ RUN      ] MatematikaTest.ProveriMnozi
+[       OK ] MatematikaTest.ProveriMnozi (0 ms)
+[ RUN      ] MatematikaTest.ProveriOduzmi
+[       OK ] MatematikaTest.ProveriOduzmi (0 ms)
+[ RUN      ] MatematikaTest.UporediMnozi
+[       OK ] MatematikaTest.UporediMnozi (0 ms)
+[ RUN      ] MatematikaTest.UporediDeli
+[       OK ] MatematikaTest.UporediDeli (0 ms)
+[----------] 6 tests from MatematikaTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 6 tests.

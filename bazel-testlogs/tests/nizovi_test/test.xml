@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2022-08-24T10:43:40" time="0" name="AllTests">
+  <testsuite name="NizoviTest" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="sum" status="run" time="0" classname="NizoviTest" />
+  </testsuite>
+</testsuites>

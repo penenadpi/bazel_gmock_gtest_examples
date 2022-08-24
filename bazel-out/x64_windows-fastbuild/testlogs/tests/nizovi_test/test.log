@@ -1,0 +1,13 @@
+Executing tests from //tests:nizovi_test
+-----------------------------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from NizoviTest
+[ RUN      ] NizoviTest.sum
+[       OK ] NizoviTest.sum (0 ms)
+[----------] 1 test from NizoviTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.

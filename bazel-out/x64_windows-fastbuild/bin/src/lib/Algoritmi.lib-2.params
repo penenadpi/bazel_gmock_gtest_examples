@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/src/lib/Algoritmi.lib
+/MACHINE:X64
+bazel-out/x64_windows-fastbuild/bin/src/lib/_objs/Algoritmi/algoritmi.obj
+/ignore:4221

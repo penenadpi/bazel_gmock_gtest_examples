@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/src/lib/Nizovi.lib
+/MACHINE:X64
+bazel-out/x64_windows-fastbuild/bin/src/lib/_objs/Nizovi/nizovi.obj
+/ignore:4221

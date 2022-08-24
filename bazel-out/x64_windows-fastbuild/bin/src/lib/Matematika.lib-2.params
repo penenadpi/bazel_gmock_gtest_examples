@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/src/lib/Matematika.lib
+/MACHINE:X64
+bazel-out/x64_windows-fastbuild/bin/src/lib/_objs/Matematika/matematika.obj
+/ignore:4221

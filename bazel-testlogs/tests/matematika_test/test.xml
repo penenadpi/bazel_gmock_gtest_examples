@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" disabled="0" errors="0" timestamp="2022-08-24T10:04:06" time="0" name="AllTests">
+  <testsuite name="MatematikaTest" tests="6" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="ProveriSaberi" status="run" time="0" classname="MatematikaTest" />
+    <testcase name="DeljenjeNulom" status="run" time="0" classname="MatematikaTest" />
+    <testcase name="ProveriMnozi" status="run" time="0" classname="MatematikaTest" />
+    <testcase name="ProveriOduzmi" status="run" time="0" classname="MatematikaTest" />
+    <testcase name="UporediMnozi" status="run" time="0" classname="MatematikaTest" />
+    <testcase name="UporediDeli" status="run" time="0" classname="MatematikaTest" />
+  </testsuite>
+</testsuites>

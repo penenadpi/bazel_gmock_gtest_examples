@@ -17,6 +17,15 @@ cc_test(
         "@com_google_googletest//:gtest_main",
     ],
 )
+cc_test(
+    name = "nizovi_test",
+    srcs = ["nizovi_test.cc"],
+    deps = [
+        "//src/lib:Nizovi",
+        "@com_google_googletest//:gtest_main",
+    ],
+)
+
 
 
 cc_test(

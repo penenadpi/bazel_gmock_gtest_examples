@@ -1,0 +1,11 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/tests/algoritmi_test.exe
+bazel-out/x64_windows-fastbuild/bin/tests/_objs/algoritmi_test/algoritmi_test.obj
+bazel-out/x64_windows-fastbuild/bin/src/lib/Algoritmi.lib
+bazel-out/x64_windows-fastbuild/bin/external/com_google_googletest/gtest_main.lib
+bazel-out/x64_windows-fastbuild/bin/external/com_google_googletest/gtest.lib
+/SUBSYSTEM:CONSOLE
+/MACHINE:X64
+/DEFAULTLIB:msvcrt.lib
+/DEBUG:FASTLINK
+/INCREMENTAL:NO
