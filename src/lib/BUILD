@@ -56,6 +56,29 @@ cc_library(
     visibility = ["//visibility:public"],
 )
 
+cc_library(
+    name = "Podaci",
+    hdrs = ["podaci.h"],
+    deps = ["//src/lib:Obrada"],
+    visibility = ["//visibility:public"],
+)
+
+cc_library(
+    name = "Obrada",
+    hdrs = ["obrada.h"],
+    deps = ["//src/lib:Vision"],
+    visibility = ["//visibility:public"],
+)
+
+cc_library(
+    name = "MockObrada",
+    hdrs = ["mock_obrada.h"],
+    deps = ["//src/lib:Obrada"],
+    visibility = ["//visibility:public"],
+)
+
+
+
 
 
 
