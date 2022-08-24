@@ -11,12 +11,12 @@ using ::testing::AtMost;
 TEST(PodaciTest, ProcsiramoPodatke) {
   //InSequence n;
   MockObrada obrada;
-  int niz[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+  int niz[] = {-1, -2, 3, 4, 5, 6, 7, 8, 9, 10};
 
   // EXPECT_CALL(vision, FindObstacle)
   //     .Times(AtLeast(1));
-  // EXPECT_CALL(engine, On)
-  //     .Times(AtMost(1));
+  EXPECT_CALL(obrada, Procesiraj)
+       .Times(AtMost(8));
 
   Podaci podaci(niz, &obrada);
 
