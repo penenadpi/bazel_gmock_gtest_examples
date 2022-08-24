@@ -20,6 +20,15 @@ cc_test(
 
 
 cc_test(
+    name = "nizovi_test",
+    srcs = ["nizovi_test.cc"],
+    deps = [
+        "//src/lib:Nizovi",
+        "@com_google_googletest//:gtest_main",
+    ],
+)
+
+cc_test(
     name = "mock_car_test",
     srcs = ["mock_car_test.cc"],
     deps = [
