@@ -41,6 +41,17 @@ cc_test(
     ],
 )
 
+cc_test(
+    name = "mock_podaci_test",
+    srcs = ["mock_podaci_test.cc"],
+    deps = [
+        "//src/lib:Obrada",
+        "//src/lib:Podaci",
+        "//src/lib:MockObrada",
+        "@com_google_googletest//:gtest_main",
+    ],
+)
+
 
 cc_test(
     name = "mock_turtle_test",
