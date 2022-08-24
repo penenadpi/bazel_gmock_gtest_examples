@@ -23,6 +23,13 @@ cc_library(
 )
 
 cc_library(
+    name = "Nizovi",
+    srcs = ["nizovi.c"],
+    hdrs = ["nizovi.h"],
+    visibility = ["//visibility:public"],
+)
+
+cc_library(
     name = "Engine",
     srcs = ["engine.cc"],
     hdrs = ["engine.h"],

@@ -1,4 +1,4 @@
-#include "algoritmi.h"
+#include "nizovi.h"
 
 int nadji_max(int niz[], int n){
     int i=0;
